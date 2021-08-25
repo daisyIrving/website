@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.339d6767.chunk.css",
-    "main.js": "./static/js/main.fe3a5c68.chunk.js",
-    "main.js.map": "./static/js/main.fe3a5c68.chunk.js.map",
+    "main.js": "./static/js/main.b8b51278.chunk.js",
+    "main.js.map": "./static/js/main.b8b51278.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.4183851b.js",
     "runtime-main.js.map": "./static/js/runtime-main.4183851b.js.map",
     "static/js/2.1357dd9b.chunk.js": "./static/js/2.1357dd9b.chunk.js",
@@ -13,8 +13,8 @@
     "static/css/main.339d6767.chunk.css.map": "./static/css/main.339d6767.chunk.css.map",
     "static/js/2.1357dd9b.chunk.js.LICENSE.txt": "./static/js/2.1357dd9b.chunk.js.LICENSE.txt",
     "static/media/index.css": "./static/media/GreycliffCF-Medium.dc490853.ttf",
-    "static/media/bottom_left.e9e62036.png": "./static/media/bottom_left.e9e62036.png",
-    "static/media/bottom_right.b78154c5.png": "./static/media/bottom_right.b78154c5.png",
+    "static/media/bottom_left.3ab24070.png": "./static/media/bottom_left.3ab24070.png",
+    "static/media/bottom_right.2be16081.png": "./static/media/bottom_right.2be16081.png",
     "static/media/cl.a0e57fbe.png": "./static/media/cl.a0e57fbe.png",
     "static/media/cr.c602e7c1.png": "./static/media/cr.c602e7c1.png",
     "static/media/inner_c.cb06f7d4.png": "./static/media/inner_c.cb06f7d4.png",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.4183851b.js",
     "static/js/2.1357dd9b.chunk.js",
     "static/css/main.339d6767.chunk.css",
-    "static/js/main.fe3a5c68.chunk.js"
+    "static/js/main.b8b51278.chunk.js"
   ]
 }
